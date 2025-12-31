@@ -5,29 +5,29 @@
 ![Веб-интерфейс RabbitMQ](screenshots/task1_rabbitmq_overview.png)
 
 ## Задание 2. Отправка и получение сообщений
-### Очередь hello с сообщением (веб-интерфейс)
+### Очередь hello с сообщением
 ![Очередь hello в веб-интерфейсе](screenshots/task2_queue_with_message.png)
 
-### Вывод consumer.py (терминал)
+### Вывод consumer.py
 ![Consumer output в терминале](screenshots/task2_consumer_output.png)
 
 ## Задание 3. Подготовка HA кластера
-### Кластер из 2 нод (веб-интерфейс)
+### Кластер из 2 нод
 ![Кластер из 2 нод](screenshots/task3_cluster_nodes.png)
 
 ### HA политика ha-all
 ![HA политика](screenshots/task3_ha_policy.png)
 
-### Статус кластера на ноде 1 (команда)
+### Статус кластера на ноде 1
 ![Cluster status node1](screenshots/task3_cluster_status_node1.png)
 
-### Статус кластера на ноде 2 (команда)
+### Статус кластера на ноде 2
 ![Cluster status node2](screenshots/task3_cluster_status_node2.png)
 
-### Сообщение на ноде 1 (rabbitmqadmin)
+### Сообщение на ноде 1
 ![RabbitMQAdmin node1](screenshots/task3_rabbitmqadmin_node1.png)
 
-### Сообщение на ноде 2 (rabbitmqadmin)
+### Сообщение на ноде 2
 ![RabbitMQAdmin node2](screenshots/task3_rabbitmqadmin_node2.png)
 
 ## Заключение
